@@ -7,9 +7,3 @@ At the root of your project directory, create a .env file
 ## Warning !!!
 
 **This agent can work with `.xls`, `.xlsx`, `.csv` **ONLY** !!!**
-
-<style>
-.warning {
-  color: red;
-}
-</style>
