@@ -2,7 +2,7 @@
 
 To Create and Use a .env File : 
 Create a .env File
-At the root of your project directory that .env must have TYPHOON_API_KEY, PANDAS_API_KEY, PLOT_API_KEY
+At the root of your project directory that .env must have `TYPHOON_API_KEY`, `PANDAS_API_KEY`, `PLOT_API_KEY`
 # cahnge with your file path
 
 ## Warning !!!
