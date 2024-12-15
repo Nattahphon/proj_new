@@ -3,3 +3,5 @@
 To Create and Use a .env File
 Create a .env File
 At the root of your project directory, create a .env file
+
+Warnning !!! this agent can work with ".xls", ".xlsx", ".csv" *only*.
